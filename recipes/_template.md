@@ -1,6 +1,6 @@
 # sugar cookies
 
-**Contributed by:**
+**Contributed by: Alissa** 
 
 ## Ingredients
 
